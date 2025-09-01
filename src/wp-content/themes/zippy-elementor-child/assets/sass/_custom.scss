@@ -1,0 +1,23 @@
+.html {
+  a {
+    text-decoration: none !important;
+  }
+}
+.text-inline-primary {
+  span {
+    background: var(--e-global-color-primary);
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 5px 15px;
+    border-radius: 5px;
+  }
+}
+.text-inline-secondary {
+  span {
+    background: var(--e-global-color-secondary);
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 5px 15px;
+    border-radius: 5px;
+  }
+}
